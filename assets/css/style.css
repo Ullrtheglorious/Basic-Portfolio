@@ -6,14 +6,8 @@
 	height: 100px;
 	padding:0;
     margin:0;
-    width: auto;
+    width: 100%;
 }
-.nav {
-	float: right;
-	padding: 30px 150px 30px 60px;
-	font-weight: bold;
-}
-
 h2 {
 	border-bottom: 3px solid #cccccc;
 	color: #4aaaa5;
@@ -23,8 +17,27 @@ h2 {
 	display: inline-block;
 	background-color: #4aaaa5;
 	padding: 13px;
-	margin-left: 50px;
+	margin-left: 140px;
+	float: left;
 }
+ul {
+	list-style-type: none;
+	margin: 0;
+	overflow: auto;
+	padding: 30px 150px 30px 60px;
+}
+li {
+	display: inline;
+	width: auto;
+	padding: 2px;
+	font-weight: bold;
+	border-right: 1px solid #cccccc;
+	float: right;
+}
+li:first-child {
+	border-right:none;
+}
+
 a:link, a:visited {
     background-color: #ffffff;
     color: #cccccc;
@@ -33,7 +46,7 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
     float:right;
-    border-right: 1px solid #cccccc
+    
 }
 body {
 	background: url("../images/background.png");
