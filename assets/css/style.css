@@ -63,7 +63,8 @@ a:link, a:visited {
 body {
 	background: url("../images/background.png");
 	margin: 0px;
-	padding: 0px 0px 66px 0px;
+	padding: 0px;
+	padding-bottom: 60px;
 	height: 100%;
 }
 
@@ -75,6 +76,8 @@ body {
 	display: block-inline;
 	margin-top: 40px;
 	margin-right: 40px;
+	padding-bottom: 66px;
+	min-height: 100%;
 }
 .connect {
 	color: #cccccc;
@@ -94,6 +97,7 @@ body {
 .footer {
 	background-color: #666666;
 	height: 60px;
+	margin-top: -66px;
 	width: 100%;
 	position: fixed;
 	bottom: 0;
