@@ -9,6 +9,7 @@
     width: 100%;
 }
 h2 {
+	text-align: left;
 	font-size: 200%;
 	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
@@ -116,4 +117,21 @@ footer {
 p {
 	text-align: left;
 	line-height: 1.5;
+}
+input, select, textarea {
+color: #ccc;
+line-height: 175%;
+width: 100%
+}
+button {
+width: 100px;
+background-color: #4aaaa5; 
+border: none;
+color: white;
+padding: 15px;
+margin: 20px 0px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
 }
