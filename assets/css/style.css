@@ -63,7 +63,8 @@ a:link, a:visited {
 body {
 	background: url("../images/background.png");
 	margin: 0px;
-	padding: 0px;
+	padding: 0px 0px 66px 0px;
+	height: 100%;
 }
 
 .about {
@@ -95,7 +96,7 @@ body {
 	height: 60px;
 	width: 100%;
 	position: fixed;
-	right: 0;bottom:0;left:0;
+	bottom: 0;
 	text-align: center;
 	border-top: 6px solid #4aaaa5;
 	color: #cccccc;
@@ -107,6 +108,7 @@ footer {
 .inner {
 	width: 610px;
 	text-align: center;
+	text-align: left;
 	padding-left: 20px;
 	float: left;
 }
@@ -139,3 +141,23 @@ text-decoration: none;
 display: inline-block;
 font-size: 16px;
 }
+.container_p {
+position: relative;
+text-align: center;
+color: white;  
+display: inline;
+float: left;
+
+}
+.portfolio {
+position: absolute;
+top: 120px;
+left: 0px;
+font-size: 150%;
+padding: 20px 0px;
+color: #ffffff;
+font-family: 'Georgia', Times, Times New Roman, serif;
+background-color: #4aaaa5;
+width: 290px;  
+}
+
