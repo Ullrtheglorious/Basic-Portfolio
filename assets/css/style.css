@@ -9,10 +9,14 @@
     width: 100%;
 }
 h2 {
+	font-size: 200%;
+	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
 	color: #4aaaa5;
 }
 h3 {
+	font-size: 120%;
+	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
 	color: #4aaaa5;
 }
@@ -73,10 +77,7 @@ body {
 	background-color: #ffffff;
 	margin-top: 40px;
 	width: 270px;
-	height: 175px;
-}
-.icons {
-	margin-right: 30px;
+	height: 195px;
 }
 .wrapper {
 	width: 960px;
@@ -103,7 +104,11 @@ footer {
 	text-align: center;
 	padding-left: 20px;
 	float: left;
-
+}
+.inner2 {
+	width: 210px;
+	text-align: center;
+	padding-left: 30px;
 }
 .me{
 	text-align: left;
