@@ -13,20 +13,20 @@ h2 {
 	font-size: 200%;
 	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
-	color: #828034;
+	color: #8FB299;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 h3 {
 	font-size: 120%;
 	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
-	color: #828034;
+	color: #8FB299;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .name{
 	color: white;
 	display: inline-block;
-	background-color: #828034;
+	background-color: #8FB299;
 	padding: 13px;
 	margin-left: auto;
 	float: left;
@@ -103,7 +103,7 @@ body {
 	position: fixed;
 	bottom: 0;
 	text-align: center;
-	border-top: 6px solid #828034;
+	border-top: 6px solid #8FB299;
 	color: #cccccc;
 }
 footer {
@@ -136,7 +136,7 @@ width: 100%
 }
 button {
 width: 100px;
-background-color: #828034; 
+background-color: #8FB299; 
 border: none;
 color: white;
 padding: 15px;
@@ -162,7 +162,7 @@ font-size: 150%;
 padding: 20px 0px;
 color: #ffffff;
 font-family: 'Georgia', Times, Times New Roman, serif;
-background-color: #828034;
+background-color: #8FB299;
 width: 290px;  
 }
 
