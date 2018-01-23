@@ -13,20 +13,20 @@ h2 {
 	font-size: 200%;
 	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
-	color: #4aaaa5;
+	color: #828034;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 h3 {
 	font-size: 120%;
 	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
-	color: #4aaaa5;
+	color: #828034;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .name{
 	color: white;
 	display: inline-block;
-	background-color: #4aaaa5;
+	background-color: #828034;
 	padding: 13px;
 	margin-left: auto;
 	float: left;
@@ -76,7 +76,8 @@ body {
 	display: block-inline;
 	margin-top: 40px;
 	margin-right: 40px;
-	padding-bottom: 66px;
+	margin-bottom: 100px;
+	padding-bottom: 20px;
 	min-height: 100%;
 }
 .connect {
@@ -102,7 +103,7 @@ body {
 	position: fixed;
 	bottom: 0;
 	text-align: center;
-	border-top: 6px solid #4aaaa5;
+	border-top: 6px solid #828034;
 	color: #cccccc;
 }
 footer {
@@ -135,7 +136,7 @@ width: 100%
 }
 button {
 width: 100px;
-background-color: #4aaaa5; 
+background-color: #828034; 
 border: none;
 color: white;
 padding: 15px;
@@ -161,7 +162,7 @@ font-size: 150%;
 padding: 20px 0px;
 color: #ffffff;
 font-family: 'Georgia', Times, Times New Roman, serif;
-background-color: #4aaaa5;
+background-color: #828034;
 width: 290px;  
 }
 
