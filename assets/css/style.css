@@ -8,20 +8,41 @@
     margin:0;
     width: 100%;
 }
+h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
 h2 {
+	display: block;
 	text-align: left;
 	font-size: 200%;
 	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
 	color: #8FB299;
+	font-weight: bold;
 	font-family: 'Georgia', Times, Times New Roman, serif;
+	margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
 }
 h3 {
-	font-size: 120%;
+	display: block;
+	margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+	font-size: 140%;
 	padding-bottom: 15px;
 	border-bottom: 3px solid #cccccc;
 	color: #8FB299;
 	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
 }
 .name{
 	color: white;
